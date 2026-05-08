@@ -84,15 +84,17 @@ status: to_process
 *   **Domanda insidiosa:** I fattori di rischio "non vanno bene quelli del compendio" (secondo la Porpora). Teratomi. 
 *   **Diagnosi differenziale:** Perché una cisti "cioccolato" (endometriosica) può sembrare un tumore in gravidanza? (Perché la parete decidualizza).
 
-**17. Infezioni in Gravidanza (TORCH)**
+**17. [[Infezioni in Gravidanza\|Infezioni in Gravidanza]] (TORCH)**
 *   **Dettagli richiesti:** Approccio generale e focus specifico sull'infezione da Citomegalovirus (CMV).
 
-**18. Emergenze Ostetriche e Ginecologiche / Addome Acuto**
+**18. [[Emergenze Ostetriche e Ginecologiche - Addome Acuto\|Emergenze Ostetriche e Ginecologiche - Addome Acuto]]**
 *   **Dettagli richiesti:** Caratteristiche del dolore, diagnosi differenziale (soprattutto tra emergenze ginecologiche e appendicite acuta). Torsione ovarica. Indicazioni assolute all'intervento chirurgico.
 
 ---
 
 ### 🟢 BASSA FREQUENZA (Ma argomenti molto specifici)
+
+[[Bassa Frequenza\|Bassa Frequenza]]
 
 *   **Distocia di spalla:** Fattori di rischio e manovre specifiche per prevenirla o risolverla.
 *   **Patologie del Trofoblasto:** Diagnostica, monitoraggio e indagini per metastasi.
