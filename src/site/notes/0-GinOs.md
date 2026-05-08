@@ -32,7 +32,7 @@ status: to_process
 *   **Clinica:** Classificazioni (es. HSIL), iter diagnostico dopo Pap test anormale.
 *   **Oncologia:** Stadiazione del K cervice e *Fertility Sparing* (chirurgia conservativa della fertilità).
 
-**5. [[PID (Malattia Infiammatoria Pelvica\|PID (Malattia Infiammatoria Pelvica]]**
+**5. [[PID (Malattia Infiammatoria Pelvica)\|PID (Malattia Infiammatoria Pelvica)]]**
 *   **Dettagli richiesti:** Differenza tra forma acuta e cronica. Patogeno più comune in caso di infezione con IUD. 
 *   **Terapia:** FONDAMENTALE sapere i dosaggi esatti degli antibiotici.
 *   **Complicanze:** Sindrome di Fitz-Hugh-Curtis (domanda da lode).
@@ -52,17 +52,17 @@ status: to_process
 **8. [[K Endometrio\|K Endometrio]]**
 *   **Dettagli richiesti:** Fattori di rischio, clinica, iter diagnostico e classificazione molecolare.
 
-**9. AUB (Sanguinamenti Uterini Anomali) e Fibromi / Miomi**
+**9. [[AUB e Sanguinamenti\|AUB e Sanguinamenti]] (Sanguinamenti Uterini Anomali) e Fibromi / Miomi**
 *   **Dettagli richiesti:** Diagnosi differenziale. Classificazione dei fibromi uterini, come si fa diagnosi e trattamento. Polipi uterini.
 
-**10. Emorragia Post-Partum (EPP) e Sanguinamenti del 3° Trimestre**
+**10. [[Emorragia Post-Partum (EPP) e Sanguinamenti del 3° Trimestre\|Emorragia Post-Partum (EPP) e Sanguinamenti del 3° Trimestre]]**
 *   **Dettagli richiesti:** Placenta previa. Fattori di rischio dell'EPP con la "Regola delle 4 T".
 *   **Gestione Pratica (Porpora):** La primissima cosa da fare (prendere un accesso venoso).
 
-**11. Infertilità e PMA (Procreazione Medicalmente Assistita)**
+**11. [[Infertilità e PMA\|Infertilità e PMA]] (Procreazione Medicalmente Assistita)**
 *   **Dettagli richiesti:** Cause di infertilità maschile e femminile, iter diagnostico e accenni alle tecniche di PMA.
 
-**12. Amenorree e Pubertà**
+**12. [[Amenorree e Pubertà\|Amenorree e Pubertà]]**
 *   **Dettagli richiesti:** Classificazione (primaria e secondaria). Valutazione dei caratteri sessuali (Telarca, stadi di Tanner). Sindrome di Turner. PCOS. Come l'anoressia determina amenorrea.
 
 ---
