@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-gin-os/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/0-gin-os/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 ```anki
