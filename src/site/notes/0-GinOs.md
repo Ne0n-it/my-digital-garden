@@ -14,7 +14,7 @@ status: to_process
 
 ### 🔥 ALTISSIMA FREQUENZA (Le domande "Sempre Presenti")
 
-**1. [[GinOs/Malattie Ipertensive in Gravidanza\|Malattie Ipertensive in Gravidanza]] (Pre-eclampsia, Eclampsia, HELLP)**
+**1. [[Malattie Ipertensive in Gravidanza\|Malattie Ipertensive in Gravidanza]] (Pre-eclampsia, Eclampsia, HELLP)**
 *   **Dettagli richiesti:** Definizione e nuove linee guida per la diagnosi (basta ipertensione + danno d'organo). Sintomi d'allarme specifici (dolore addominale a barra e scotomi).
 *   **Terapia (FONDAMENTALE):** Gestione e trattamento farmacologico. Criteri di scelta tra Nifedipina e Labetalolo.
 *   **Solfato di Magnesio:** Domanda tipica della **Porpora**. Usi, effetti avversi, qual è l'antidoto, e il suo utilizzo per la neuro-prevenzione.
@@ -37,7 +37,7 @@ status: to_process
 *   **Terapia:** FONDAMENTALE sapere i dosaggi esatti degli antibiotici.
 *   **Complicanze:** Sindrome di Fitz-Hugh-Curtis (domanda da lode).
 
-**6. [[GinOs/Diabete Gestazionale\|Diabete Gestazionale]]**
+**6. [[Diabete Gestazionale\|Diabete Gestazionale]]**
 *   **Dettagli richiesti:** Classificazione di Priscilla White (vogliono in particolare le classi A1 e A2). Diagnosi e terapia.
 
 ---
@@ -79,7 +79,7 @@ status: to_process
 **15. [[Diagnosi Prenatale e Screening del 1° Trimestre\|Diagnosi Prenatale e Screening del 1° Trimestre]]**
 *   **Dettagli richiesti:** Tecniche non invasive. Differenza tra test di screening e diagnosi (con relative tempistiche).
 
-**16. K Ovaio**
+**16. [[K Ovaio\|K Ovaio]]**
 *   **Dettagli richiesti:** Trattamento e Classificazione laparoscopica di Fagotti per la citoriduzione.
 *   **Domanda insidiosa:** I fattori di rischio "non vanno bene quelli del compendio" (secondo la Porpora). Teratomi. 
 *   **Diagnosi differenziale:** Perché una cisti "cioccolato" (endometriosica) può sembrare un tumore in gravidanza? (Perché la parete decidualizza).
