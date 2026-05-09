@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/bassa-frequenza/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/bassa-frequenza/","tags":["M::Ginos::x"],"dg-note-properties":{"status":"quiz_pending","cards-deck":"M::Ginos","tags":"M::Ginos::x"}}
 ---
+
+[[0-GinOs\|0-GinOs]] [[quiz/Bassa Frequenza_quiz\|Bassa Frequenza_quiz]] [[flashcards/Bassa Frequenza_flashcards\|Bassa Frequenza_flashcards]]
 
 **DISTOCIA DI SPALLA E MACROSOMIA FETALE**
 

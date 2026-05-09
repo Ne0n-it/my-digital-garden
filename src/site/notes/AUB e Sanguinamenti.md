@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/aub-e-sanguinamenti/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/aub-e-sanguinamenti/","tags":["M::Ginos::x"],"dg-note-properties":{"status":"quiz_pending","cards-deck":"M::Ginos","tags":"M::Ginos::x"}}
 ---
+
+[[0-GinOs\|0-GinOs]] [[quiz/AUB e Sanguinamenti_quiz\|AUB e Sanguinamenti_quiz]] [[flashcards/AUB e Sanguinamenti_flashcards\|AUB e Sanguinamenti_flashcards]]
 
 **SANGUINAMENTI UTERINI ANOMALI (AUB - Abnormal Uterine Bleeding)**
 

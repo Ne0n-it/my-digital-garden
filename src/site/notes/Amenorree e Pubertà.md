@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/amenorree-e-puberta/","tags":["M::Ginos::x"],"dg-note-properties":{"cards-deck":"M::Ginos","tags":"M::Ginos::x"}}
+{"dg-publish":true,"permalink":"/amenorree-e-puberta/","tags":["M::Ginos::x"],"dg-note-properties":{"cards-deck":"M::Ginos","tags":"M::Ginos::x","status":"quiz_pending"}}
 ---
+
+[[0-GinOs\|0-GinOs]] [[quiz/Amenorree e Pubertà_quiz\|Amenorree e Pubertà_quiz]] [[flashcards/Amenorree e Pubertà_flashcards\|Amenorree e Pubertà_flashcards]]
 
 **PUBERTÀ E AMENORREE**
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/diabete-gestazionale/","tags":["M::Ginos::x"],"dg-note-properties":{"status":"quiz_pending","cards-deck":"M::Ginos","tags":"M::Ginos::x"}}
 ---
 
-[[0-GinOs\|0-GinOs]] [[quiz/Diabete Gestazionale_quiz\|Diabete Gestazionale_quiz]] [[flashcards/Diabete Gestazionale_flashcards\|Diabete Gestazionale_flashcards]]
+[[0-GinOs\|0-GinOs]] [[GinOs/quiz/Diabete Gestazionale_quiz\|GinOs/quiz/Diabete Gestazionale_quiz]] [[flashcards/Diabete Gestazionale_flashcards\|Diabete Gestazionale_flashcards]]
 
 **DIABETE GESTAZIONALE**
 
